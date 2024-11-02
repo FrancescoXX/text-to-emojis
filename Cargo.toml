@@ -1,0 +1,14 @@
+[package]
+name = "text_to_emoji"
+version = "0.1.0"
+edition = "2021"
+authors = ["Francesco Ciulla francescociullaroma@gmail.com"]
+description = "Convert text to emoji"
+license = "MIT"
+repository = ""
+homepage = ""
+readme = "README.md"
+keywords = ["emoji", "text", "convert", "rust"]
+categories = [""]
+
+[dependencies]
